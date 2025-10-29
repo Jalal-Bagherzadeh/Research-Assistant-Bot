@@ -1,0 +1,1 @@
+Capstone project for th Gen AI Intensive Course Capstone 2025Q1. This project tries to build an AI research assistant. The researcher provides a data set and defines several tables based on the data. Then, asking the bot to do some statistical or descriptive analysis on data. Bot should be able to interact with data through SQL queries and answer researcher's questions.
